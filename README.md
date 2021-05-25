@@ -1,4 +1,4 @@
-# Carro-Android-test
+# Carro-Android-Test
 
 ## Android Engineer
 
@@ -74,4 +74,4 @@ Looking forward to seeing your code!
 
 ### Design
 
-![alt text](https://raw.githubusercontent.com/heinhtetaung92/Carro-Android-Test/main/singapore-vehicle-detail.png)
+![alt text](https://raw.githubusercontent.com/heinhtetaung92/Carro-Android-Test/main/singapore-vehicle-detail.png?token=AB4DIYFOHLZH3UTO34CCOPDAVS5G6)

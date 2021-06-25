@@ -28,6 +28,11 @@ Regarding "Enhance your subscripton" articles, please use hard coded information
 
 You may use appropiate images and icons. They don't need to be exactly same.
 
+### Note ***
+1. Detail page must use RecyclerView to handle UI
+2. Need to validate the reponse in Data Layer and remove them they are invalid
+3. Business logic must not be in View Layer
+
 ### Country Options
 1. Singapore
 2. Thailand
